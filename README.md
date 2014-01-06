@@ -12,7 +12,7 @@ Ctrl + C
 
 To reset LED:
 $ sudo python FlashRGBtime.py
-Then just press enter when it asks how long
+Then just press Ctrl + C when it asks how long
 you would like each stage.
 
 
